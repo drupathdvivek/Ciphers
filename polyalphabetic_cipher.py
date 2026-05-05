@@ -13,4 +13,4 @@ for i in range(len(txt)):
         j+=1
     else:
         cipher+=txt[i]
-print("Encrypted text : ",cipher)
+print("Encrypted message : ",cipher)
